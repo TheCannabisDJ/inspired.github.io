@@ -1,0 +1,50 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+    } */
+
+h1 {
+    background-image: url("https://2.bp.blogspot.com/-fX__a49SKN4/WamaDz5Xu5I/AAAAAAAANSE/FtIK8UXkqIsOGhyp5EOecWHKrnN36dmxACLcBGAs/s1600/What%2Bis%2BSea%2BGlass%252C%2Band%2BWhere%2BCan%2BYou%2BFind%2BIt.jpg");
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: black;
+}
+
+.available {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+img {
+    max-width: 70%;
+    height: auto;
+    padding-left: 20px;
+}
+
+#petmom {
+    background-color: mediumspringgreen;
+}
+
+#seaflowers {
+    background-color: skyblue;
+}
+
+#proudplants {
+    background-color: lightcoral;
+}
